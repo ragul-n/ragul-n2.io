@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: whiteglass theme
-author: Yous
+author: ragul-n
 description: Minimal, responsive Jekyll theme for hackers.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ragul-n2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
